@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @KuhaParki
+- 👀 I’m interested in solving problems with the means of coding. I'm much into sports so my dream is to use my coding abilities to improve physical activity amongst the common people
+-  and physical performance amongst athletes.
+- 🌱 I’m currently learning Java and Python. Also done some HTML and SQL (MySQL).
+- 💞️ I’m looking to collaborate on all kinds of projects. I love seeking new grounds.
+- ⚡ Fun fact: My sports take place on land, at sea and in the air. I love orienteering and trail running, scuba diving and free diving and I'm a former ski jumping athlete!
